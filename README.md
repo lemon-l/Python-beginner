@@ -11,4 +11,4 @@
     - 求矩阵的秩
     - 实现不完全伽玛函数: 不玩去哪伽玛函数 = 上不完全伽玛函数 / 伽玛函数
     - 通过公式计算统计值
-    <div align="center"><img width="450" height="150" src="https://ftp.bmp.ovh/imgs/2020/03/ff781124d7215a09.png"></div>
+    <div align="center"><img width="550" height="100" src="https://ftp.bmp.ovh/imgs/2020/03/ff781124d7215a09.png"></div>
