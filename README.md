@@ -14,5 +14,5 @@
     <div align="center"><img width="550" height="100" src="https://ftp.bmp.ovh/imgs/2020/03/ff781124d7215a09.png"></div>
 4. [Screenshot_translation](https://github.com/lemon-l/Python-beginner/tree/master/%E5%AE%9E%E6%88%98/Screenshot_translation) 实现截图翻译的功能。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;包含代码和打包后的程序。具体操作：截图 -> 回车，然后出现结果
-<div align="center"><img width="550" height="100" src="https://ftp.bmp.ovh/imgs/2020/04/41d241c8a4568c07.png"></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;包含代码和打包后的程序。具体操作：截取含有英文的图片 -> 回车，然后出现中文翻译结果
+<div align="center"><img width="550" height="300" src="https://ftp.bmp.ovh/imgs/2020/04/41d241c8a4568c07.png"></div>
